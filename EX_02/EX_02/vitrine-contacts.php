@@ -11,6 +11,7 @@
 
         <main>
             <h2> Contacts</h2>
+            <?php include "contact-form.php" ?>
         </main>
 
         <?php

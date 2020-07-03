@@ -13,6 +13,7 @@
 
         <main>
             <h2> Programme ISCC 2020 </h2>
+            <?php include "contact-form.php" ?>
         </main>
 
         <?php

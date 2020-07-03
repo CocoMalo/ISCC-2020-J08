@@ -20,6 +20,10 @@
                 if ($_GET ["page3"] == "Programme" ) {
                     echo "a href= "vitrine-programme.html"> Programme</a>";
                         }
+                if ($_GET ["page4"] == "404" ) {
+                    echo "a href= "http://localhost/iscc/ISCC- 2020-J08/Exo_02/index.php?page=contact-form
+                    "> 404</a>";
+                        }
             ?>
             </nav>
 
